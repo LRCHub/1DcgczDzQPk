@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Happy Halloween（feat. 鏡音リン）",
+  "base_artist": "Junky",
+  "createdAt": "2025-12-23T08:58:33.580092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. 鏡音リン)",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/01_Happy_Halloween_(feat._鏡音リン)_Junky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_Happy_Halloween_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. KAGAMINE RIN)",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/03_Happy_Halloween_(feat._KAGAMINE_RIN)_Junky.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/04_Happy_Halloween_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. 鏡音リン)",
+      "artist": "Junky, 鏡音リン",
+      "has_synced": true,
+      "path": "select/05_Happy_Halloween_(feat._鏡音リン)_Junky,_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. DAZBEE)",
+      "artist": "Junky",
+      "has_synced": false,
+      "path": "select/06_Happy_Halloween_(feat._DAZBEE)_Junky.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy Halloween (feat. 鏡音リン)",
+      "artist": "Junky",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_Halloween_(feat._鏡音リン)_Junky.txt"
+    }
+  ]
+}
